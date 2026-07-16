@@ -1,2 +1,3 @@
 # sample-project
-my fits project on github
+my first project on github
+we will connect it with git
